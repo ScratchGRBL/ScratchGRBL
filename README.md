@@ -4,4 +4,4 @@ Why I develop this [GRBL1.1](https://github.com/gnea/grbl) extension for [Scratc
 
 For more help how to use it please visit website www.scratchgrbl.com.
 
-![image](https://user-images.githubusercontent.com/80566281/113099349-64113e00-922c-11eb-854f-9a6f31daddf6.png)
+![image](https://user-images.githubusercontent.com/80566281/113099826-28c33f00-922d-11eb-822b-12d2869f32a3.png)
